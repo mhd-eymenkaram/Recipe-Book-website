@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit{
   title = 'resipe-book-project';
-  loadedFeature ="shopping-list"
+  loadedFeature ="recipe"
 
   constructor(){}
 
